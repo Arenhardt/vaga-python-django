@@ -1,4 +1,5 @@
 # ![configr](https://raw.github.com/configr/vaga-python-django/master/logo.png "configr")
+![DOMO](https://media.configr.com/static/website/new/images/selo.png?1502971853 "Domo")
 
 Lançada em Novembro de 2013, a [Configr](http://configr.com) vem ajudando cada vez mais desenvolvedores e empresas a gerenciarem seus servidores e suas aplicações na nuvem de forma fácil, rápida e sem abrir mão de autonomia ou pagar valores estratosféricos. Para fazer isso acontecer, por trás do sistema da Configr, existe uma equipe composta por profissionais extremamente competentes, comprometidos e apaixonados pelo que fazem... e a parte boa é que
 nós estamos contratando!
